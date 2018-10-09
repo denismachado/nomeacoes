@@ -1,0 +1,3 @@
+db: adventistascanad
+user: adventistascanad
+pass: Iasd@Toronto2016
